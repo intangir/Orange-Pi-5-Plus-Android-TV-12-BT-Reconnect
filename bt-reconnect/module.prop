@@ -1,0 +1,7 @@
+id=bt-reconnect
+name=BT Auto-Reconnect
+version=1.0
+versionCode=1
+author=intangir
+description=Auto-reconnects Bluetooth after suspend/wake
+
